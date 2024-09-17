@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "966810486701",
+    "project_id": "loginpractice-cbe21",
+    "storage_bucket": "loginpractice-cbe21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966810486701:android:7bd17ca953cf42fc3fc324",
+        "android_client_info": {
+          "package_name": "com.example.flutter_social_medial_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966810486701-qfhmq8pkt3vcoe9r8j0apge9gm3v7ks4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4EzbhZi6egpx9ZHqXBKOlh2lmDXade-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966810486701-qfhmq8pkt3vcoe9r8j0apge9gm3v7ks4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "966810486701-ik81qi14n87v5ga3p342j5bqd337ltei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplicationPractice"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
